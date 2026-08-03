@@ -1,5 +1,10 @@
 # 更新履歴
 
+## 2026-08-03
+
+### 新規YouTube動画発見 (1 件)
+- [角醒ハンター オメガホーン] 主題歌1 「SHOUTラララVIVA！」入野自由 → PROJECT R.E.D. チャンネル https://www.youtube.com/watch?v=1jwY-WG1XcQ
+
 ## 2026-07-31
 
 ### 新規YouTube動画発見 (1 件)
