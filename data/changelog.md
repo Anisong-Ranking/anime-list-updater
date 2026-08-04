@@ -1,5 +1,15 @@
 # 更新履歴
 
+## 2026-08-04
+
+### 新規アニメ (3 件)
+- [2026秋アニメ] 人付き合いが苦手な未亡人の雪女さんと呪いの指輪
+- [2026秋アニメ] FX戦士くるみちゃん
+- [2026秋アニメ] ゆうさんち！from 遊蜂
+
+### 新規YouTube動画発見 (1 件)
+- [ぐらんぶる Season 3] OP1 「夏子」FUNKY MONKEY BΛBY'S → FUNKY MONKEY BΛBY'S https://www.youtube.com/watch?v=NI-CGKoVBbY
+
 ## 2026-08-03
 
 ### 新規YouTube動画発見 (1 件)
