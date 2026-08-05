@@ -1,5 +1,10 @@
 # 更新履歴
 
+## 2026-08-05
+
+### 新規YouTube動画発見 (1 件)
+- [透明な夜に駆ける君と、目に見えない恋をした。] OP1 「ひとひら」秦基博 → SHOCHIKU anime Channel https://www.youtube.com/watch?v=OhRKTSgC7Es
+
 ## 2026-08-04
 
 ### 新規アニメ (3 件)
