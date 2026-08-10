@@ -1,5 +1,11 @@
 # 更新履歴
 
+## 2026-08-10
+
+### 新規YouTube動画発見 (2 件)
+- [北斗の拳 拳王軍ザコたちの挽歌 第2クール] ED2 「白い蝶が飛んだら」イツカ▶ feat. Dr. Washington | Special Guest Guitar:Tsuyoshi Ujiki → FRONTIERWORKS https://www.youtube.com/watch?v=H4J8Kh65Qu8
+- [ホタルの嫁入り] ED1 「夢心地」TOOBOE → john / TOOBOE https://www.youtube.com/watch?v=TE3McAbD7DA
+
 ## 2026-08-06
 
 ### 新規アニメ (5 件)
