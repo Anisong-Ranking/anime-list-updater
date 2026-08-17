@@ -1,5 +1,11 @@
 # 更新履歴
 
+## 2026-08-17
+
+### 新規YouTube動画発見 (2 件)
+- [幻想水滸伝] OP1 「悲しみさえ大人びて」amazarashi → KONAMI公式 https://www.youtube.com/watch?v=gupmw0_6Bu4
+- [新テニスの王子様 U-17 WORLD CUP 決勝メンバー決定戦] ED1 「金環蝕 phenomenal」跡部景吾＆忍足侑士 → アニメ 新テニスの王子様 オフィシャルチャンネル https://www.youtube.com/watch?v=LLCVfhquaAU
+
 ## 2026-08-13
 
 ### 新規アニメ (1 件)
