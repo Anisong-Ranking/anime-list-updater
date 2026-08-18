@@ -1,5 +1,12 @@
 # 更新履歴
 
+## 2026-08-18
+
+### 新規YouTube動画発見 (3 件)
+- [BEYBLADE X 真・未来編] OP1 「Invincible」i-dle → ベイチューブ | BEYBLADE Channel https://www.youtube.com/watch?v=wONjimYg078
+- [BEYBLADE X 真・未来編] ED1 「Youth」aoen → ベイチューブ | BEYBLADE Channel https://www.youtube.com/watch?v=nrvbC5NDuDQ
+- [薬屋のひとりごと 第3期] OP1 「雲を抜け風下へ私だけ」ヨルシカ → TOHO animation https://www.youtube.com/watch?v=9rProUQlD-I
+
 ## 2026-08-17
 
 ### 新規YouTube動画発見 (2 件)
