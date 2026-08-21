@@ -1,5 +1,11 @@
 # 更新履歴
 
+## 2026-08-21
+
+### 新規YouTube動画発見 (2 件)
+- [ばなにゃ あっとほーむぱーてぃー] 主題歌1 「にゃんだふる☆にゃんだ～らんど」TAMAchan → TMSアニメ公式チャンネル https://www.youtube.com/watch?v=1g8PZWar8cY
+- [東京リベンジャーズ 三天戦争編] ED1 「トリックスター」go!go!vanillas → go!go!vanillas https://www.youtube.com/watch?v=qcmjeeCS380
+
 ## 2026-08-19
 
 ### 新規アニメ (1 件)
