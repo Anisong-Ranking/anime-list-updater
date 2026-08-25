@@ -1,5 +1,21 @@
 # 更新履歴
 
+## 2026-08-25
+
+### 新規アニメ (5 件)
+- [2026秋アニメ] 転生したら剣でしたII
+- [2026秋アニメ] DARK MACHINE THE ANIMATION
+- [2026秋アニメ] Duel Masters LOST ～断罪の少年～
+- [2026秋アニメ] フールナイト
+- [2026秋アニメ] Bass X Machina: バス X マキナ
+
+### 削除アニメ (1 件)
+- [2026秋アニメ] 転生したら剣でした 第2期
+
+### 新規YouTube動画発見 (2 件)
+- [Duel Masters LOST ～断罪の少年～] OP1 「あやかしあやし」伊東歌詞太郎 → デュエチューブ-DM公式- https://www.youtube.com/watch?v=dYHTC2QyGTs
+- [Duel Masters LOST ～断罪の少年～] ED1 「朔日 feat. 吉乃」月詠み → デュエチューブ-DM公式- https://www.youtube.com/watch?v=L3JeU4bIHNk
+
 ## 2026-08-21
 
 ### 新規YouTube動画発見 (2 件)
