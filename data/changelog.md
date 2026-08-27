@@ -1,5 +1,16 @@
 # 更新履歴
 
+## 2026-08-27
+
+### 新規アニメ (3 件)
+- [2026秋アニメ] ぷにるんず ぷに４
+- [2026夏アニメ] マツケンアニメ〜これ成敗してもいいですか？
+- [2026夏アニメ] トミカ クロスレスキュー
+
+### 新規YouTube動画発見 (2 件)
+- [探偵はもう、死んでいる。Season2] ED1 「白昼夢」カグラナナ → カグラナナchannel／ななかぐら https://www.youtube.com/watch?v=WAjXT8Q109U
+- [魔法少女育成計画restart] ED1 「ReMind」Daisy×Daisy → TVアニメ「魔法少女育成計画restart」公式チャンネル https://www.youtube.com/watch?v=iD1hmEvGQmM
+
 ## 2026-08-25
 
 ### 新規アニメ (5 件)
