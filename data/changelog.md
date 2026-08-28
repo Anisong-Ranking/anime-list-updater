@@ -1,5 +1,17 @@
 # 更新履歴
 
+## 2026-08-28
+
+### 新規アニメ (1 件)
+- [2026秋アニメ] アオのハコ Season2
+
+### 削除アニメ (1 件)
+- [2026秋アニメ] アオのハコ 第2期
+
+### 新規YouTube動画発見 (2 件)
+- [アオのハコ Season2] OP1 「あなたの花の色」aiko → TMSアニメ公式チャンネル https://www.youtube.com/watch?v=d0jg9hNHqn8
+- [東京リベンジャーズ 三天戦争編] OP1 「IGNITE」JO1 → JO1 https://www.youtube.com/watch?v=u0uxN_2wZ_w
+
 ## 2026-08-27
 
 ### 新規アニメ (3 件)
