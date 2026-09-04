@@ -1,5 +1,10 @@
 # 更新履歴
 
+## 2026-09-04
+
+### 新規YouTube動画発見 (1 件)
+- [ドラゴンボール超 ビルス] OP1 「オノガミ」メガテラ・ゼロ → hyou - Anime on Piano https://www.youtube.com/watch?v=iyKK-RTzf1o
+
 ## 2026-09-03
 
 ### 新規アニメ (1 件)
