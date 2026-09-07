@@ -1,5 +1,11 @@
 # 更新履歴
 
+## 2026-09-07
+
+### 新規YouTube動画発見 (2 件)
+- [仮面ライダーマイス] 主題歌1 「One Shot」THE RAMPAGE → THE RAMPAGE from EXILE TRIBE https://www.youtube.com/watch?v=7nmvfmUiWEE
+- [ごーすと・みーつ・ぎゃる！] 主題歌1 「にこいちミライ」夢限大みゅーたいぷ → ヴァンガードチャンネル【アニメ「Divinez 幻真星戦編」配信中!!】 https://www.youtube.com/watch?v=CcAE0TcmOjQ
+
 ## 2026-09-04
 
 ### 新規YouTube動画発見 (1 件)
