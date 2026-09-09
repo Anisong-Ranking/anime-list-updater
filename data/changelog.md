@@ -1,5 +1,13 @@
 # 更新履歴
 
+## 2026-09-09
+
+### 新規アニメ (1 件)
+- [2026秋アニメ] おはスタ第五学園
+
+### 新規YouTube動画発見 (1 件)
+- [弱気MAX令嬢なのに、辣腕婚約者様の賭けに乗ってしまった] ED1 「夜明けまでに」伊藤美来 → KADOKAWA Official Channel https://www.youtube.com/watch?v=Pxi9I9R-td8
+
 ## 2026-09-07
 
 ### 新規YouTube動画発見 (2 件)
