@@ -1,5 +1,19 @@
 # 更新履歴
 
+## 2026-09-15
+
+### 新規アニメ (4 件)
+- [2027冬アニメ] 死して生きるSSS級ハンター
+- [2027冬アニメ] ジャイアントお嬢様
+- [2027冬アニメ] アニコミ「青春のやり直しは異世界で」
+- [2027冬アニメ] 俺と悠兄！
+
+### 新規YouTube動画発見 (4 件)
+- [佐々木とピーちゃん シーズン２] ED1 「すきぴのおかげ！」のんふぃく！ → のんふぃく！【Non¬Fiction】 https://www.youtube.com/watch?v=AOucy5dZOpE
+- [千歳くんはラムネ瓶のなか 第2クール] OP2 「サイダーガール」サイダーガール → KADOKAWAanime https://www.youtube.com/watch?v=pjGmDIrNgHw
+- [ロメリア戦記] OP1 「暁に鳴る」超学生 → TVアニメ「ロメリア戦記」Official Channel https://www.youtube.com/watch?v=PxXPcoo8uGM
+- [ロメリア戦記] ED1 「Nightfall feat. Maika Loubté」KOHTA YAMAMOTO → TVアニメ「ロメリア戦記」Official Channel https://www.youtube.com/watch?v=PxXPcoo8uGM
+
 ## 2026-09-14
 
 ### 新規YouTube動画発見 (2 件)
