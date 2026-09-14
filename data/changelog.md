@@ -1,5 +1,11 @@
 # 更新履歴
 
+## 2026-09-14
+
+### 新規YouTube動画発見 (2 件)
+- [TANK CHAIR-戦車椅子-] OP1 「DALALA」SiM → Bandai Namco Filmworks Channel https://www.youtube.com/watch?v=7lbUMzWGK4g
+- [とある暗部の少女共棲] ED1 「原子崩し(メルトダウナー)」岸田教団&THE明星ロケッツ → Kisidakyoudan & the Akebosi rockets official https://www.youtube.com/watch?v=JH927fq9qaM
+
 ## 2026-09-11
 
 ### 新規アニメ (1 件)
