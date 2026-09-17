@@ -1,5 +1,16 @@
 # 更新履歴
 
+## 2026-09-17
+
+### 新規アニメ (2 件)
+- [2026秋アニメ] ふんばるず
+- [2027冬アニメ] ハルとゲン ～70歳、はじめての子育て～
+
+### 新規YouTube動画発見 (3 件)
+- [ダイヤのA actⅡ -Second Season- 第2クール] ED2 「ROAD TO BE BLUE」OxT → OxT - Topic https://www.youtube.com/watch?v=4qhROA2isBY
+- [パンどろぼう] OP1 「パンどろぼうのうた」パンどろぼうとパンやのおじさん（CV：朝井彩加とCV：諏訪部順一） → パンどろぼう / PANDOROBO【公式】 https://www.youtube.com/watch?v=TqE3XE2Uqx4
+- [魔法の姉妹ルルットリリィ 第2クール] ED2 「どりぃむアラモード」ルルットリリィ（こんぺとリリィ（CV.橘めい）、ましゅールル（CV.小鹿なお）） → Bandai Namco Filmworks Channel https://www.youtube.com/watch?v=vaGNB4JkCAs
+
 ## 2026-09-16
 
 ### 新規アニメ (1 件)
