@@ -1,5 +1,25 @@
 # 更新履歴
 
+## 2026-09-19
+
+### 新規アニメ (2 件)
+- [2027冬アニメ] ブレス
+- [2026秋アニメ] BEYBLADE X ベイキングダム編
+
+### 新規YouTube動画発見 (12 件)
+- [佐々木とピーちゃん Season2] ED1 「すきぴのおかげ！」のんふぃく！ → のんふぃく！【Non¬Fiction】 https://www.youtube.com/watch?v=AOucy5dZOpE
+- [TANK CHAIR-戦車椅子-] ED1 「SYNC」Daoko → Bandai Namco Filmworks Channel https://www.youtube.com/watch?v=IrHhljLwzXw
+- [探偵はもう、死んでいる。Season2] ED1 「白昼夢」カグラナナ → カグラナナchannel／ななかぐら https://www.youtube.com/watch?v=WAjXT8Q109U
+- [ドラゴンボール超 ビルス] OP1 「オノガミ」メガテラ・ゼロ → hyou - Anime on Piano https://www.youtube.com/watch?v=iyKK-RTzf1o
+- [バーテックスフォース] OP1 「シンクロブルー」ClariS → アニプレックス チャンネル https://www.youtube.com/watch?v=pGD0RhKZk4I
+- [パンどろぼう] ED1 「Pang Pang Pang」きゃりーぱみゅぱみゅ → パンどろぼう / PANDOROBO【公式】 https://www.youtube.com/watch?v=TqE3XE2Uqx4
+- [冰剣の魔術師が世界を統べるⅡ] OP1 「Diamond Dust」Sizuk → Sizuk / Shunryu https://www.youtube.com/watch?v=-ODi7T8akHI
+- [BEYBLADE X ベイキングダム編] OP1 「Fearless」&TEAM → ベイチューブ | BEYBLADE Channel https://www.youtube.com/watch?v=HvcYTLw9HiE
+- [BEYBLADE X ベイキングダム編] ED1 「SPIN」BAND-MAID → ベイチューブ | BEYBLADE Channel https://www.youtube.com/watch?v=HvcYTLw9HiE
+- [魔法少女育成計画restart] ED1 「ReMind」Daisy×Daisy → TVアニメ「魔法少女育成計画restart」公式チャンネル https://www.youtube.com/watch?v=iD1hmEvGQmM
+- [野生のラスボスが現れた！ 第2期] OP1 「Melodic Impact」Suspended 4th → NBCUniversal Anime/Music https://www.youtube.com/watch?v=clLABf_c_wI
+- [野生のラスボスが現れた！ 第2期] ED1 「揺れてスカート」ちゃくら → NBCUniversal Anime/Music https://www.youtube.com/watch?v=5Mqx25wWWGc
+
 ## 2026-09-18
 
 ### 新規アニメ (3 件)
