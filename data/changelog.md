@@ -1,5 +1,11 @@
 # 更新履歴
 
+## 2026-09-20
+
+### 新規YouTube動画発見 (2 件)
+- [ケロロ軍曹☆] OP1 「キライのちスキ！」ano（あの） → ano official channel https://www.youtube.com/watch?v=y0URm3qCTpc
+- [らんま1/2 第3期] ED1 「かわいくない」『ユイカ』 → 『ユイカ』 https://www.youtube.com/watch?v=ic9XKLWMbCw
+
 ## 2026-09-19
 
 ### 新規アニメ (2 件)
