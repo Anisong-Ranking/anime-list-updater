@@ -9,7 +9,8 @@ import sys
 import tempfile
 from pathlib import Path
 
-from .anilist_movie_finder import fetch_movies
+from .anilist_movie_finder import fetch_movies as fetch_movies_anilist
+from .animatetimes_movie_finder import fetch_movies as fetch_movies_animatetimes
 from .anime_scraper import scrape_season
 from .diff_reporter import report_diff
 from .output_writer import write_outputs
@@ -88,14 +89,24 @@ def main() -> int:
         all_animes.extend(animes)
 
     if not args.skip_movies:
-        # アニメイトタイムズの季アニメタグページはTVシリーズのみで劇場版は載らないため、
-        # AniList(無料・キー不要)から別途、直近〜今後の日本産劇場版を補う。
+        # アニメイトタイムズの季アニメタグページ(TV用)には劇場版が載らないため、
+        # 2つの別ソースで補う。
+        #   1) アニメイトタイムズ自身の「アニメ映画一覧」ページ(主題歌まで載っている・優先)
+        #   2) AniList(無料・キー不要。①にまだ載っていない直近発表分の取りこぼし対策)
+        existing_titles = {a.title for a in all_animes}
         try:
-            movies = fetch_movies()
-            print(f"[info] anilist movies: {len(movies)} 件")
-            existing_titles = {a.title for a in all_animes}
-            new_movies = [m for m in movies if m.title not in existing_titles]
-            all_animes.extend(new_movies)
+            at_movies = fetch_movies_animatetimes()
+            print(f"[info] animatetimes movies: {len(at_movies)} 件")
+            new_at_movies = [m for m in at_movies if m.title not in existing_titles]
+            all_animes.extend(new_at_movies)
+            existing_titles.update(m.title for m in new_at_movies)
+        except Exception as e:
+            print(f"[warn] animatetimes movie fetch failed (skipped): {e}")
+        try:
+            al_movies = fetch_movies_anilist()
+            print(f"[info] anilist movies: {len(al_movies)} 件")
+            new_al_movies = [m for m in al_movies if m.title not in existing_titles]
+            all_animes.extend(new_al_movies)
         except Exception as e:
             print(f"[warn] anilist movie fetch failed (skipped): {e}")
 

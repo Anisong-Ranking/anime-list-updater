@@ -17,6 +17,7 @@ from typing import Iterable
 import requests
 
 from .anime_scraper import Anime
+from .season_label import season_label_for
 
 ANILIST_URL = "https://graphql.anilist.co"
 USER_AGENT = "anisong-ranking-anime-list-updater/1.0 (+https://anisong-ranking.com)"
@@ -44,17 +45,8 @@ query ($from: FuzzyDateInt, $to: FuzzyDateInt, $page: Int, $perPage: Int) {
 }
 """
 
-_SEASON_JP = {1: "冬", 2: "冬", 3: "冬", 4: "春", 5: "春", 6: "春",
-              7: "夏", 8: "夏", 9: "夏", 10: "秋", 11: "秋", 12: "秋"}
-
-
 def _to_fuzzy_int(d: dt.date) -> int:
     return d.year * 10000 + d.month * 100 + d.day
-
-
-def season_label_for(year: int, month: int) -> str:
-    """公開年月から「2026夏アニメ」等のラベルを作る(登録済み台帳の書式に合わせる)。"""
-    return f"{year}{_SEASON_JP[month]}アニメ"
 
 
 def _best_title(title_obj: dict) -> str:
