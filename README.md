@@ -2,9 +2,15 @@
 
 アニメイトタイムズのシーズン特集ページから新作アニメ一覧と OP/ED を抽出し、yt-dlp で公式 YouTube 動画を検索して CSV / Excel に書き出すツール。GitHub Actions で 1 日 1 回自動更新する想定。
 
-- データソース: `https://www.animatetimes.com/tag/details.php?id={season_id}`
-- シーズン (春/夏/秋/冬) のタグ ID はサイトナビから自動取得 → 季節が変わっても URL を書き換えずに追従
-- 新作アニメは公式 YouTube チャンネルが後から開設されることが多いため、毎日リトライしてキャッチ
+- データソース(TV): `https://www.animatetimes.com/tag/details.php?id={season_id}`
+  - シーズン (春/夏/秋/冬) のタグ ID はサイトナビから自動取得 → 季節が変わっても URL を書き換えずに追従
+  - 新作アニメは公式 YouTube チャンネルが後から開設されることが多いため、毎日リトライしてキャッチ
+- データソース(劇場版): AniList GraphQL(無料・APIキー不要, `src/anilist_movie_finder.py`)
+  - アニメイトタイムズの季アニメタグページは **TV放送シリーズのみ** で劇場版は載らない
+    (2026-09-23 実測: 劇場版 呪術廻戦0・チェンソーマン レゼ篇は楽曲ランキングには既に入っているのに
+    アニメ紹介ページ側の台帳には無かった)ため、劇場版だけ別ソースで補う
+  - `format: MOVIE, countryOfOrigin: "JP"` で直近60日〜今後200日の公開作品を取得
+  - `--skip-movies` で無効化可能(既定は有効)
 
 ## 出力ファイル (`data/`)
 
@@ -83,8 +89,9 @@ schtasks /create /tn "AnimeListUpdate" /sc daily /st 06:00 /tr "powershell -NoPr
 
 | ファイル | 役割 |
 |---|---|
-| `src/anime_scraper.py` | アニメイトタイムズタグページ → アニメ + OP/ED 抽出 |
+| `src/anime_scraper.py` | アニメイトタイムズタグページ → アニメ + OP/ED 抽出(TV) |
 | `src/season_finder.py` | ナビメニューから春夏秋冬タグ ID を発見、現行/次期シーズン解決 |
+| `src/anilist_movie_finder.py` | AniList GraphQL → 日本産劇場版アニメ抽出(TVタグページの対象外を補う) |
 | `src/youtube_finder.py` | yt-dlp で OP/ED 動画検索 + 公式判定 + 再生数最大選択 |
 | `src/output_writer.py` | CSV (UTF-8 BOM) と 2 シート Excel 書き出し |
 | `src/diff_reporter.py` | 直前 CSV と比較 → 新規アニメ／新規 YouTube 動画を `changelog.md` に追記 |

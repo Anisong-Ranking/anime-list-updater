@@ -9,6 +9,7 @@ import sys
 import tempfile
 from pathlib import Path
 
+from .anilist_movie_finder import fetch_movies
 from .anime_scraper import scrape_season
 from .diff_reporter import report_diff
 from .output_writer import write_outputs
@@ -46,6 +47,11 @@ def parse_args() -> argparse.Namespace:
         action="store_true",
         help="changelog 差分検出をスキップ",
     )
+    p.add_argument(
+        "--skip-movies",
+        action="store_true",
+        help="AniListの劇場版取得をスキップ（TV一覧のみ）",
+    )
     return p.parse_args()
 
 
@@ -80,6 +86,18 @@ def main() -> int:
         season_label, animes = scrape_season(sid)
         print(f"  → {season_label}: {len(animes)} anime")
         all_animes.extend(animes)
+
+    if not args.skip_movies:
+        # アニメイトタイムズの季アニメタグページはTVシリーズのみで劇場版は載らないため、
+        # AniList(無料・キー不要)から別途、直近〜今後の日本産劇場版を補う。
+        try:
+            movies = fetch_movies()
+            print(f"[info] anilist movies: {len(movies)} 件")
+            existing_titles = {a.title for a in all_animes}
+            new_movies = [m for m in movies if m.title not in existing_titles]
+            all_animes.extend(new_movies)
+        except Exception as e:
+            print(f"[warn] anilist movie fetch failed (skipped): {e}")
 
     if args.skip_youtube:
         from .youtube_finder import load_cached_only
