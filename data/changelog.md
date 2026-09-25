@@ -1,5 +1,56 @@
 # 更新履歴
 
+## 2026-09-25
+
+### 新規アニメ (5 件)
+- [2027冬アニメ] ふつつかな悪女ではございますが～雛宮蝶鼠とりかえ伝～ 第2クール
+- [2026秋アニメ] 劇場版 進撃の巨人 前編～紅蓮の弓矢～ SCREEN X & 4DX & ULTRA 4DX上映
+- [2027冬アニメ] 魔術を極めて旅に出た転生エルフ、持て余した寿命で生ける伝説となる
+- [2027冬アニメ] アラフォー賢者の異世界生活日記
+- [2027冬アニメ] 真･侍伝 YAIBA 第2期 かぐや編
+
+### 新規YouTube動画発見 (40 件)
+- [とある暗部の少女共棲] ED1 「原子崩し(メルトダウナー)」岸田教団&THE明星ロケッツ → Kisidakyoudan & the Akebosi rockets official https://www.youtube.com/watch?v=JH927fq9qaM
+- [魔法の姉妹ルルットリリィ 第2クール] OP2 「Swingin' Magic」ILLIT → Bandai Namco Filmworks Channel https://www.youtube.com/watch?v=sNIntrw0m-g
+- [風を継ぐもの] OP1 「風を継ぐもの」くるり＋羊文学 → アニプレックス チャンネル https://www.youtube.com/watch?v=ECavMtVCB08
+- [映画「宇宙なんちゃら こてつくん」うっかり出てきた宇宙人を探せ！] 主題歌1 「うちゅーのなんちゃら仲間」中川翔子 → KADOKAWAanime https://www.youtube.com/watch?v=V0u41dBKwHQ
+- [最終楽章 響け！ユーフォニアム 後編] 主題歌1 「ToCoda」TRUE → KyoaniChannel https://www.youtube.com/watch?v=XhkqTdupSKs
+- [縁の手紙] 主題歌1 「Your Letter – Japanese Ver.」矢吹奈子 → 矢吹奈子 - Topic https://www.youtube.com/watch?v=fqMzuUA_Gvc
+- [どこよりも遠い場所にいる君へ] 主題歌1 「オリーブ」とた → とた https://www.youtube.com/watch?v=hslV2YXiRg8
+- [青春ブタ野郎はディアフレンドの夢を見ない] 主題歌1 「水平線は僕の古傷 finale」 → アニプレックス チャンネル https://www.youtube.com/watch?v=ydmOU6gOi3k
+- [劇場版 前橋ウィッチーズ ～魔女見習いのエモエモリーズ～] 主題歌1 「雨晴れMake up」前橋ウィッチーズ → TVアニメ『前橋ウィッチーズ』YouTube公式チャンネル https://www.youtube.com/watch?v=txDov2HH7xM
+- [風を継ぐもの 劇場先行上映] OP1 「風を継ぐもの」くるり＋羊文学 → アニプレックス チャンネル https://www.youtube.com/watch?v=ECavMtVCB08
+- [機動警察パトレイバー EZY File 3] OP1 「黎明Compass」Mori Calliope → Mori Calliope Ch. hololive https://www.youtube.com/watch?v=usdfDwEdp2Q
+- [迷宮のしおり] 主題歌1 「Sailor, Sail On」新しい学校のリーダーズ → ATARASHII GAKKO! - 新しい学校のリーダーズ https://www.youtube.com/watch?v=TAXzecJ5u_Q
+- [ALL YOU NEED IS KILL] 主題歌1 「連れてって」AKASAKI → AKASAKI https://www.youtube.com/watch?v=0KtJKzzovDM
+- [超かぐや姫！] 主題歌1 「Ex-Otogibanashi」月見ヤチヨ（CV：早見沙織） → ‘Cosmic Princess Kaguya!’ OFFICIAL https://www.youtube.com/watch?v=gsGjcLVI6X4
+- [超かぐや姫！] ED1 「ray」かぐや（CV：夏吉ゆうこ） 月見ヤチヨ（CV：早見沙織） → ‘Cosmic Princess Kaguya!’ OFFICIAL https://www.youtube.com/watch?v=356MRZ6P5h0
+- [ガールズ＆パンツァー もっとらぶらぶ作戦です！ 第2幕] OP1 「Nonstop Daydream」ChouCho×佐咲紗花 → Lantis Channel https://www.youtube.com/watch?v=qlgp-Rdcd-s
+- [ガールズ＆パンツァー もっとらぶらぶ作戦です！ 第2幕] ED1 「おやすみなさいの続きです！」西住みほ（CV.渕上舞） → Lantis Channel https://www.youtube.com/watch?v=2eC4puVHEBg
+- [クスノキの番人] 主題歌1 「傍らにて月夜」Uru → Uru Official YouTube Channel https://www.youtube.com/watch?v=L9_KqJJwniE
+- [機動戦士ガンダム 閃光のハサウェイ キルケーの魔女] OP1 「Snooze」SZA → Sony Music Japan https://www.youtube.com/watch?v=K184UMb9yao
+- [白蛇：浮生] 主題歌1 「縁 -YUÁN-」Snow Man → 映画『白蛇浮生』『ヨウゼン』『白蛇縁起』日本語吹替版公式 https://www.youtube.com/watch?v=UUdNbCGLRnU
+- [劇場版 僕の心のヤバイやつ] 主題歌1 「茜」ヨルシカ → ヨルシカ / n-buna Official https://www.youtube.com/watch?v=bqigIHMComE
+- [新劇場版 銀魂 -吉原大炎上-] 主題歌1 「燦然」SUPER BEAVER → SUPER BEAVER official YouTube channel https://www.youtube.com/watch?v=O2nEirNPXPM
+- [ヤマトよ永遠に REBEL3199 第五章 白熱の銀河大戦] ED1 「Persona」緒方恵美 → Bandai Namco Filmworks Channel https://www.youtube.com/watch?v=3GQeTW0NGGg
+- [映画ドラえもん 新・のび太の海底鬼岩城] 主題歌1 「Honto」sumika → sumika official https://www.youtube.com/watch?v=5DfWkp7uQMs
+- [劇場版 転生したらスライムだった件 蒼海の涙編] 主題歌1 「ユートピア」TRUE → TRUE Lantis Official Channel https://www.youtube.com/watch?v=NDjfrXD5vX0
+- [花緑青が明ける日に] 主題歌1 「青葉」imase → imase https://www.youtube.com/watch?v=RJGAbR99VLQ
+- [パリに咲くエトワール] 主題歌1 「風に乗る」緑黄色社会 → 緑黄色社会 https://www.youtube.com/watch?v=D0k--RXcIT8
+- [映画ひみつのアイプリ まんかいバズリウムライブ！] 主題歌1 「開花宣言！」超ときめき♡宣伝部 → Cho Tokimeki♡Sendenbu Official（超ときめき♡宣伝部） https://www.youtube.com/watch?v=LQCt6sl2PBA
+- [劇場版「暗殺教室」みんなの時間] 主題歌1 「Teacher」友成空 → 友成空 (TOMONARI SORA) https://www.youtube.com/watch?v=BzxDNwP81Hc
+- [左ききのエレン 1週間限定先行上映] ED1 「New Walk」紫 今 → ギャガ公式チャンネル https://www.youtube.com/watch?v=9wmo7Wya5b4
+- [名探偵コナン ハイウェイの堕天使] 主題歌1 「ラストダンスあなたと」MISIA → MISIA https://www.youtube.com/watch?v=m4UuJWVt4Zc
+- [最終楽章 響け！ユーフォニアム 前編] 主題歌1 「ToCoda」TRUE → KyoaniChannel https://www.youtube.com/watch?v=XhkqTdupSKs
+- [機動警察パトレイバー EZY File 1] OP1 「黎明Compass」Mori Calliope → Mori Calliope Ch. hololive https://www.youtube.com/watch?v=usdfDwEdp2Q
+- [新劇場版☆ケロロ軍曹 復活して速攻地球滅亡の危機であります！] 主題歌1 「貸しっぱなしデスティニー」ano → ano official channel https://www.youtube.com/watch?v=y0URm3qCTpc
+- [新劇場版☆ケロロ軍曹 復活して速攻地球滅亡の危機であります！] OP1 「また帰ってきたケロッ！とマーチ」ano ＆ 粗品 → ano official channel https://www.youtube.com/watch?v=y0URm3qCTpc
+- [君と花火と約束と] 主題歌1 「消えない花火」timelesz → timelesz https://www.youtube.com/watch?v=nxLLYYgITzc
+- [映画ちいかわ 人魚の島のひみつ] OP1 「くつずれ」ハチワレ（CV：田中誠人） → 東宝MOVIEチャンネル https://www.youtube.com/watch?v=Tz7hdJ5wsyY
+- [映画クレヨンしんちゃん 奇々怪々！オラの妖怪バケ～ション] 主題歌1 「大人になったら」TOMOO → TOMOO https://www.youtube.com/watch?v=aifiE43kcZ8
+- [THE RIBBON HERO リボンヒーロー] 主題歌1 「Reborn」Girls Archives. → Girls Archives. https://www.youtube.com/watch?v=eGvkTbdNNLM
+- [機動警察パトレイバー EZY File 2] OP1 「黎明Compass」Mori Calliope → Mori Calliope Ch. hololive https://www.youtube.com/watch?v=usdfDwEdp2Q
+
 ## 2026-09-23
 
 ### 新規アニメ (114 件)
