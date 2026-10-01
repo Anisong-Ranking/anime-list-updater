@@ -1,5 +1,13 @@
 # 更新履歴
 
+## 2026-10-01
+
+### 新規YouTube動画発見 (4 件)
+- [氷の城壁 第2期] ED1 「花蔭」Superfly → Superfly https://www.youtube.com/watch?v=NPUnblFfI2w
+- [Battle Spirits [Re] 絶界の空] OP1 「Here we are！」JAM Project → BattleSpirits https://www.youtube.com/watch?v=cXd4pKTx2pI
+- [Battle Spirits [Re] 絶界の空] ED1 「パルス」秘めごと → BattleSpirits https://www.youtube.com/watch?v=cXd4pKTx2pI
+- [我々は宇宙人] 主題歌1 「ささくれ」adieu（上白石萌歌） → adieu [ 上白石萌歌 ] official YouTube channel https://www.youtube.com/watch?v=fBfs6ZE1L-M
+
 ## 2026-09-30
 
 ### 新規アニメ (6 件)
