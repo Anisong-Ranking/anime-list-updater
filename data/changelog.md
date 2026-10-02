@@ -1,5 +1,22 @@
 # 更新履歴
 
+## 2026-10-02
+
+### 新規アニメ (2 件)
+- [2026秋アニメ] タコピーの原罪 -ありがとう、また明日-
+- [2027冬アニメ] おデブ悪女に転生したら、なぜかラスボス王子様に執着されています
+
+### 削除アニメ (2 件)
+- [2026秋アニメ] 魔法のプリンセス ミンキーモモ 憧れの夢へ まごころの二重奏 特別劇場上映
+- [2026秋アニメ] タコピーの原罪 -ありがとう、また明日-
+
+### 新規YouTube動画発見 (5 件)
+- [アオのハコ Season2] OP1 「あなたの花の色」aiko → TMSアニメ公式チャンネル https://www.youtube.com/watch?v=d0jg9hNHqn8
+- [塩対応の佐藤さんが俺にだけ甘い] ED1 「初恋リプライ」HoneyWorks feat.星川サラ → MARUMOCHI from HoneyWorks https://www.youtube.com/watch?v=I1IWV7ZuQbM
+- [転生した大聖女は、聖女であることをひた隠す] ED1 「STELLAR」ウタヒメドリーム オールスターズ → ウタヒメドリーム公式 https://www.youtube.com/watch?v=rcrLsiYE2Hk
+- [魔法使いの夜] 主題歌1 「夜と青」supercell → アニプレックス チャンネル https://www.youtube.com/watch?v=k1jyM2kSBzA
+- [映画ちいかわ 人魚の島のひみつ] ED1 「机さする」青木遥 → くらチャンネル https://www.youtube.com/watch?v=WEO666yeYlQ
+
 ## 2026-10-01
 
 ### 新規YouTube動画発見 (4 件)
