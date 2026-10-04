@@ -1,5 +1,19 @@
 # 更新履歴
 
+## 2026-10-04
+
+### 新規YouTube動画発見 (10 件)
+- [貸した魔力は【リボ払い】で強制徴収] OP1 「リスクレート」BUDDiiS → tv asahi  animation YouTubeチャンネル https://www.youtube.com/watch?v=R5veWbUAM-I
+- [貸した魔力は【リボ払い】で強制徴収] ED1 「いれもの」こたに → tv asahi  animation YouTubeチャンネル https://www.youtube.com/watch?v=gYZJcSSnAVY
+- [傷だらけ聖女より報復をこめて Season2] OP1 「華麗なるリベンジャー」Juice=Juice → Juice=Juice https://www.youtube.com/watch?v=y8dxEBdlISk
+- [#ゾンビさがしてます] OP1 「ラキラキ」すりぃ → KADOKAWAanime https://www.youtube.com/watch?v=zhK-ugQnTgA
+- [転生貴族、鑑定スキルで成り上がる 第3期] OP1 「Still Water」佐々木李子 → isekai channel @バンダイナムコフィルムワークス https://www.youtube.com/watch?v=-LQfgkvHY8k
+- [転生した大聖女は、聖女であることをひた隠す] OP1 「Flare of Soul」花耶 → Kaya Official YouTube Channel  https://www.youtube.com/watch?v=Zh22JniyJy4
+- [ブラッククローバー 2nd Season] ED1 「Yellow Brick Road」ONE OR EIGHT → テレ東アニメ https://www.youtube.com/watch?v=umzOm3846cA
+- [ホタルの嫁入り] ED1 「夢心地」TOOBOE → john / TOOBOE https://www.youtube.com/watch?v=TE3McAbD7DA
+- [マロニエ王国の七人の騎士] OP1 「さよならは言わない」yama → NHK ENTERPRISES Animation https://www.youtube.com/watch?v=HYm0nNqk9Aw
+- [らんま1/2 第3期] OP1 「素直未満」ふみの → MAPPA CHANNEL https://www.youtube.com/watch?v=hNiixLqIi64
+
 ## 2026-10-03
 
 ### 新規アニメ (1 件)
