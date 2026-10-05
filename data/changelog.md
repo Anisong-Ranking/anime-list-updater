@@ -1,5 +1,20 @@
 # 更新履歴
 
+## 2026-10-05
+
+### 新規YouTube動画発見 (11 件)
+- [アオのハコ Season2] ED1 「blue in」エルスウェア紀行 → TMSアニメ公式チャンネル https://www.youtube.com/watch?v=8B3d4x0m7n4
+- [FX戦士くるみちゃん] ED1 「$・¥・€ （ドル・エン・ユーロ）」福賀くるみ（CV：鈴木愛奈） → KADOKAWAanime https://www.youtube.com/watch?v=OiQo6YyJ_pM
+- [彼女の友達] ED1 「False Love」Ceui → デレギュラ【新アニメレーベル】 https://www.youtube.com/watch?v=By3eIjul98c
+- [幻想水滸伝] ED1 「closed eye sun (feat. たかはしほのか)」Koji Nakamura → NBCUniversal Anime/Music https://www.youtube.com/watch?v=2mkPF8PO4GY
+- [PSYREN -サイレン-] OP1 「WARNING!!」CLAN QUEEN → Zuax anime and music https://www.youtube.com/watch?v=Uitds6Ysj08
+- [僕らが選んだベストアドベンチャー] OP1 「SHAKARIKI!!」宮﨑歩・谷本貴義 → Digimon Official Channel https://www.youtube.com/watch?v=uqIOdbe7rtI
+- [僕らが選んだベストアドベンチャー] ED1 「Limitless Dreams」宮﨑歩・谷本貴義 → Digimon Official Channel https://www.youtube.com/watch?v=irjWjYsfVk0
+- [ホテル・インヒューマンズ 第2期] OP1 「螺旋」GAN（岩田剛典） → テレ東アニメ https://www.youtube.com/watch?v=3MFyyGVajvA
+- [ホテル・インヒューマンズ 第2期] ED1 「スイートピー」ファントムシータ → テレ東アニメ https://www.youtube.com/watch?v=BUxVzKyGrsw
+- [目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい] OP1 「UNSTOPPABLE」FLOW → アニプレックス チャンネル https://www.youtube.com/watch?v=VzCsxgQ_4_M
+- [目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい] ED1 「MY WAY」ASTERISM → アニプレックス チャンネル https://www.youtube.com/watch?v=6GDMDhzPctA
+
 ## 2026-10-04
 
 ### 新規YouTube動画発見 (10 件)
