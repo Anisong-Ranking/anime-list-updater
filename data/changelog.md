@@ -1,5 +1,20 @@
 # 更新履歴
 
+## 2026-10-06
+
+### 新規アニメ (2 件)
+- [2027冬アニメ] 真の聖女である私は追放されました。だからこの国はもう終わりです
+- [2026秋アニメ] 劇場版 遊☆戯☆王 THE DARK SIDE OF DIMENSIONS リバイバル上映（再放送）
+
+### 新規YouTube動画発見 (7 件)
+- [アオアシ Season2] OP1 「Fortress Defense」10-FEET → ShoProアニメチャンネル https://www.youtube.com/watch?v=9xlZceuxdOg
+- [アオアシ Season2] ED1 「トライアングル」ヒグチアイ → ShoProアニメチャンネル https://www.youtube.com/watch?v=lH7j2J7eSgQ
+- [彼方から] ED1 「光の側で」名無し之太郎 → NBCUniversal Anime/Music https://www.youtube.com/watch?v=AHM2wnrCJPI
+- [デモンズ・クレスト] ED1 「ReaL」Soala → Warner Bros. Japan Anime https://www.youtube.com/watch?v=OF0FVdN5kpE
+- [どうも、好きな人に惚れ薬を依頼された魔女です。] OP1 「かなわない、」センチミリメンタル → KADOKAWAanime https://www.youtube.com/watch?v=7bgXfpD2NgI
+- [どうも、好きな人に惚れ薬を依頼された魔女です。] ED1 「まだ嘘にならない」レイニ → KADOKAWAanime https://www.youtube.com/watch?v=6HQrPW-cHcY
+- [わたしの幸せな結婚 特別篇] OP1 「幸せで涙が出るのは。」りりあ。 → りりあ。 https://www.youtube.com/watch?v=5QD0vQjPnN8
+
 ## 2026-10-05
 
 ### 新規YouTube動画発見 (11 件)
