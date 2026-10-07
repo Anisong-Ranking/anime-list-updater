@@ -1,5 +1,21 @@
 # 更新履歴
 
+## 2026-10-07
+
+### 新規アニメ (2 件)
+- [2027冬アニメ] ノルドコレアの恋
+- [2027冬アニメ] 赤ずきん、旅の途中で死体と出会う。
+
+### 削除アニメ (1 件)
+- [2026夏アニメ] THE RIBBON HERO
+
+### 新規YouTube動画発見 (5 件)
+- [FX戦士くるみちゃん] OP1 「FX戦士くるみちゃん」福賀くるみ（CV：鈴木愛奈） → KADOKAWAanime https://www.youtube.com/watch?v=OiQo6YyJ_pM
+- [凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録] OP1 「リスポーン!!」角巻わため → MBS animation 公式チャンネル https://www.youtube.com/watch?v=-FXID0KhCm0
+- [PSYREN -サイレン-] ED1 「ICARUS」Who-ya Extended → OPEDAnimeHub https://www.youtube.com/watch?v=-3NP_k2Aozk
+- [塩対応の佐藤さんが俺にだけ甘い] OP1 「シュガーソルト」オーイシマサヨシ → SHOCHIKU anime Channel https://www.youtube.com/watch?v=u-gAxKpkZDI
+- [劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉] 主題歌1 「彼方」FictionJunction → FictionJunction Official YouTube Channel https://www.youtube.com/watch?v=Oo-QA_oqKUA
+
 ## 2026-10-06
 
 ### 新規アニメ (2 件)
