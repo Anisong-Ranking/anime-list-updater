@@ -1,5 +1,14 @@
 # 更新履歴
 
+## 2026-10-08
+
+### 新規YouTube動画発見 (5 件)
+- [彼方から] OP1 「逃光行」原因は自分にある。 → 原因は自分にある。Official https://www.youtube.com/watch?v=TKY-lAGnP50
+- [世界最強の魔女、始めました] OP1 「影響力∞アイドル」HoneyWorks feat.ハコニワリリィ → ぽにきゃん-Anime PONY CANYON https://www.youtube.com/watch?v=kX0ZBPvZc-4
+- [探偵はもう、死んでいる。Season2] OP1 「この心臓に花束を」心梅 → KADOKAWAanime https://www.youtube.com/watch?v=0C9t6lrFM_o
+- [転生したら剣でしたII] OP1 「DREAM OF BUTTERFLY」FZMZ → NBCUniversal Anime/Music https://www.youtube.com/watch?v=4FCUWOqNwCc
+- [転生したら剣でしたII] ED1 「バリバリBuddy」花冷え。 → NBCUniversal Anime/Music https://www.youtube.com/watch?v=SYbP5PxHZvM
+
 ## 2026-10-07
 
 ### 新規アニメ (2 件)
