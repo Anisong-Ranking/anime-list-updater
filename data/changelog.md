@@ -1,5 +1,18 @@
 # 更新履歴
 
+## 2026-10-09
+
+### 新規アニメ (1 件)
+- [2027冬アニメ] 機動戦士ガンダムSEED FREEDOM ZERO
+
+### 新規YouTube動画発見 (6 件)
+- [氷の城壁 第2期] OP1 「エスコート」THE BEAT GARDEN → TBSアニメ https://www.youtube.com/watch?v=nMp5XQo-_Zg
+- [佐々木とピーちゃん Season2] OP1 「Unbroken」MADKID → KADOKAWAanime https://www.youtube.com/watch?v=rPaWkpG1wAs
+- [獣王武神ダンデヴァイン] OP1 「残響≠ブラスター」西川貴教 → GOOD SMILE CHANNEL https://www.youtube.com/watch?v=a8fgR7YAUj4
+- [信者ゼロの女神サマと始める異世界攻略] ED1 「Fall in Dream」Suupeas → Suupeas https://www.youtube.com/watch?v=O_vYVXH9m3E
+- [てつりょー！meet with 鉄道むすめ] OP1 「GO! GO! RAILWAY!!」亜咲花 → ぽにきゃん-Anime PONY CANYON https://www.youtube.com/watch?v=YOZAtTfugI8
+- [ゆるゆる図鑑] 主題歌1 「すばら進化！」SHY → テレ東アニメKids https://www.youtube.com/watch?v=mOm7K-klguU
+
 ## 2026-10-08
 
 ### 新規YouTube動画発見 (5 件)
