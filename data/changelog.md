@@ -1,5 +1,22 @@
 # 更新履歴
 
+## 2026-10-10
+
+### 新規アニメ (1 件)
+- [2027冬アニメ] 機動戦士ガンダムSEED FREEDOM ZERO
+
+### 削除アニメ (1 件)
+- [2027冬アニメ] 機動戦士ガンダムSEED FREEDOM ZERO
+
+### 新規YouTube動画発見 (7 件)
+- [帰還者の魔法は特別です 第2期] OP1 「Sorrow」FLOW → アニプレックス チャンネル https://www.youtube.com/watch?v=YD_2CLazNbQ
+- [テムパル～アイテムの力～] OP1 「SATISFY」Re:name → ぽにきゃん-Anime PONY CANYON https://www.youtube.com/watch?v=bMtoYP135bc
+- [テムパル～アイテムの力～] ED1 「Ray of Emotion」導凰 → ぽにきゃん-Anime PONY CANYON https://www.youtube.com/watch?v=m_w460cA1ko
+- [マジカル★エクスプローラー] OP1 「Remedy」ASCA → ASCA Official YouTube Channel https://www.youtube.com/watch?v=VmotQGt_17A
+- [マジカル★エクスプローラー] ED1 「Double Wings」ASCA → ASCA Official YouTube Channel https://www.youtube.com/watch?v=VmotQGt_17A
+- [マロニエ王国の七人の騎士] ED1 「マロニエの花が咲く頃に」藤澤慶昌 → NHK ENTERPRISES Animation https://www.youtube.com/watch?v=DA3edQ0XL-8
+- [弱気MAX令嬢なのに、辣腕婚約者様の賭けに乗ってしまった] OP1 「強気MAX宣言」鈴木このみ → KADOKAWAanime https://www.youtube.com/watch?v=w9A4aLB2XYQ
+
 ## 2026-10-09
 
 ### 新規アニメ (1 件)
