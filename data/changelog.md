@@ -1,5 +1,16 @@
 # 更新履歴
 
+## 2026-10-11
+
+### 新規YouTube動画発見 (7 件)
+- [傷だらけ聖女より報復をこめて Season2] ED1 「凪の底」月追う彼方 → AnimationID  https://www.youtube.com/watch?v=HwJXu_CirFQ
+- [朱色の仮面] OP1 「Firestarter」MAN WITH A MISSION → 【ytv animation】読売テレビ アニメ公式 https://www.youtube.com/watch?v=w9Y4BqDs_DU
+- [朱色の仮面] ED1 「声」yutori → 【ytv animation】読売テレビ アニメ公式 https://www.youtube.com/watch?v=-cv3r0fV3F8
+- [#ゾンビさがしてます] ED1 「ソフトアポカリプス」cadode → KADOKAWAanime https://www.youtube.com/watch?v=h6Vsivg4jyM
+- [とある暗部の少女共棲] OP1 「Ghost Sequence」East Of Eden → East Of Eden https://www.youtube.com/watch?v=5ChLZwJZn9s
+- [バーテックスフォース] ED1 「エメラルド」はしメロ → アニプレックス チャンネル https://www.youtube.com/watch?v=oJESb0W2J3A
+- [魔法騎士レイアース] OP1 「乙女の剣」十明 → TMSアニメ公式チャンネル https://www.youtube.com/watch?v=eyps2lFMx18
+
 ## 2026-10-10
 
 ### 新規アニメ (1 件)
