@@ -1,5 +1,35 @@
 # 更新履歴
 
+## 2026-10-13
+
+### 新規YouTube動画発見 (26 件)
+- [アオのハコ Season2] ED1 「blue in」エルスウェア紀行 → TMSアニメ公式チャンネル https://www.youtube.com/watch?v=8B3d4x0m7n4
+- [FX戦士くるみちゃん] ED1 「$・¥・€ （ドル・エン・ユーロ）」福賀くるみ（CV：鈴木愛奈） → KADOKAWAanime https://www.youtube.com/watch?v=OiQo6YyJ_pM
+- [おじさんはカワイイものがお好き。] OP1 「LIKE³」八木勇征 → メテオ・ポラリス公式チャンネル https://www.youtube.com/watch?v=Rtw__04Gzbw
+- [貸した魔力は【リボ払い】で強制徴収] OP1 「リスクレート」BUDDiiS → tv asahi  animation YouTubeチャンネル https://www.youtube.com/watch?v=R5veWbUAM-I
+- [貸した魔力は【リボ払い】で強制徴収] ED1 「いれもの」こたに → tv asahi  animation YouTubeチャンネル https://www.youtube.com/watch?v=gYZJcSSnAVY
+- [彼女の友達] ED1 「False Love」Ceui → デレギュラ【新アニメレーベル】 https://www.youtube.com/watch?v=By3eIjul98c
+- [傷だらけ聖女より報復をこめて Season2] OP1 「華麗なるリベンジャー」Juice=Juice → Juice=Juice https://www.youtube.com/watch?v=y8dxEBdlISk
+- [ケロロ軍曹☆] ED1 「秘密のパノラマ」PURPLE BUBBLE → 【公式】ケロロチャンネル https://www.youtube.com/watch?v=A8b6GHtgpWI
+- [幻想水滸伝] ED1 「closed eye sun (feat. たかはしほのか)」Koji Nakamura → NBCUniversal Anime/Music https://www.youtube.com/watch?v=2mkPF8PO4GY
+- [PSYREN -サイレン-] OP1 「WARNING!!」CLAN QUEEN → Anime Melodies https://www.youtube.com/watch?v=gk3f0vgTkFw
+- [#ゾンビさがしてます] OP1 「ラキラキ」すりぃ → KADOKAWAanime https://www.youtube.com/watch?v=zhK-ugQnTgA
+- [転生貴族、鑑定スキルで成り上がる 第3期] OP1 「Still Water」佐々木李子 → isekai channel @バンダイナムコフィルムワークス https://www.youtube.com/watch?v=-LQfgkvHY8k
+- [転生した大聖女は、聖女であることをひた隠す] OP1 「Flare of Soul」花耶 → Kaya Official YouTube Channel  https://www.youtube.com/watch?v=Zh22JniyJy4
+- [パンどろぼう] OP1 「パンどろぼうのうた」パンどろぼうとパンやのおじさん（CV：朝井彩加とCV：諏訪部順一） → パンどろぼう / PANDOROBO【公式】 https://www.youtube.com/watch?v=oUDFr8Ktaxs
+- [パンどろぼう] ED1 「Pang Pang Pang」きゃりーぱみゅぱみゅ → パンどろぼう / PANDOROBO【公式】 https://www.youtube.com/watch?v=oUDFr8Ktaxs
+- [ブラッククローバー 2nd Season] ED1 「Yellow Brick Road」ONE OR EIGHT → テレ東アニメ https://www.youtube.com/watch?v=umzOm3846cA
+- [僕らが選んだベストアドベンチャー] OP1 「SHAKARIKI!!」宮﨑歩・谷本貴義 → Digimon Official Channel https://www.youtube.com/watch?v=uqIOdbe7rtI
+- [僕らが選んだベストアドベンチャー] ED1 「Limitless Dreams」宮﨑歩・谷本貴義 → Digimon Official Channel https://www.youtube.com/watch?v=uqIOdbe7rtI
+- [ホタルの嫁入り] ED1 「夢心地」TOOBOE → 【フジテレビ】アニメ公式チャンネル https://www.youtube.com/watch?v=IqJEHa3PLCQ
+- [ホテル・インヒューマンズ 第2期] OP1 「螺旋」GAN（岩田剛典） → テレ東アニメ https://www.youtube.com/watch?v=3MFyyGVajvA
+- [ホテル・インヒューマンズ 第2期] ED1 「スイートピー」ファントムシータ → テレ東アニメ https://www.youtube.com/watch?v=BUxVzKyGrsw
+- [マロニエ王国の七人の騎士] OP1 「さよならは言わない」yama → yama https://www.youtube.com/watch?v=0Ldh_MWIIFk
+- [目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい] OP1 「UNSTOPPABLE」FLOW → アニプレックス チャンネル https://www.youtube.com/watch?v=VzCsxgQ_4_M
+- [目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい] ED1 「MY WAY」ASTERISM → アニプレックス チャンネル https://www.youtube.com/watch?v=6GDMDhzPctA
+- [夜桜さんちの大作戦 第2期 第2クール] OP2 「フォーエバーソング」ハンブレッダーズ → NBCUniversal Anime/Music https://www.youtube.com/watch?v=f7QJtQL-LFU
+- [ふつつかな悪女ではございますが～雛宮蝶鼠とりかえ伝～ 第2クール] OP1 「Sunny」milet → TOHO animation https://www.youtube.com/watch?v=nR_vqhD2rGM
+
 ## 2026-10-12
 
 ### 新規アニメ (1 件)
