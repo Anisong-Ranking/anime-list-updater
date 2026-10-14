@@ -1,5 +1,16 @@
 # 更新履歴
 
+## 2026-10-14
+
+### 新規アニメ (2 件)
+- [2027冬アニメ] ワンパンマン 第3期 第2クール
+- [2026秋アニメ] 劇場版 COWBOY BEBOP 天国の扉 4K REMASTER
+
+### 新規YouTube動画発見 (3 件)
+- [ワンパンマン 第3期 第2クール] OP1 「Get No Satisfied !」JAM Project feat.BABYMETAL → Lantis Channel https://www.youtube.com/watch?v=lpGSwTUSynM
+- [劇場版「進撃の巨人」完結編THE LAST ATTACK 復活上映] 主題歌1 「二千年... 若しくは... 二万年後の君へ・・・」Linked Horizon → 進撃の巨人 - Attack on Titan Official https://www.youtube.com/watch?v=PuE1uRbpkTk
+- [劇場版 魔法科高校の劣等生 四葉継承編] 主題歌1 「YES」LiSA → LiSA Official YouTube https://www.youtube.com/watch?v=fR7e0N1UkRI
+
 ## 2026-10-13
 
 ### 新規YouTube動画発見 (26 件)
