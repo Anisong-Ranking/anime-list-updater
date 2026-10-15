@@ -7,7 +7,7 @@
 #        ErrorActionPreference=Continue にして $LASTEXITCODE で明示判定する。
 
 $repo   = 'E:\wk\02.AnisongRanking\pipeline\anime_list_updater'
-$logDir = 'E:\wk\02.AnisongRanking\persistent\logs'
+$logDir = 'E:\wk\02.AnisongRanking\pipeline\anime_list_updater\logs'
 $ts     = Get-Date -Format 'yyyy-MM-dd_HHmmss'
 
 New-Item -ItemType Directory -Force -Path $logDir | Out-Null
