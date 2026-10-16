@@ -1,5 +1,23 @@
 # 更新履歴
 
+## 2026-10-16
+
+### 新規アニメ (1 件)
+- [2027冬アニメ] アングリーバード／大奮闘！ファミリー・ミッション
+
+### 新規YouTube動画発見 (11 件)
+- [アイカツ！ アンコール放送] OP1 「Signalize!」わか・ふうり・すなお・りすこ from STAR☆ANIS → アイカツ!チャンネル【公式】 https://www.youtube.com/watch?v=B4NhvHuvfTI
+- [アイカツ！ アンコール放送] OP2 「ダイヤモンドハッピー」わか・ふうり・すなお from STAR☆ANIS → アイカツ!チャンネル【公式】 https://www.youtube.com/watch?v=B4NhvHuvfTI
+- [アイカツ！ アンコール放送] ED1 「カレンダーガール」わか・ふうり・すなお from STAR☆ANIS → アイカツ!チャンネル【公式】 https://www.youtube.com/watch?v=B4NhvHuvfTI
+- [アイカツ！ アンコール放送] ED2 「ヒラリ/ヒトリ/キラリ」わか・ふうり・すなお・れみ・もえ・えり・ゆな・りすこ from STAR☆ANIS → アイカツ!チャンネル【公式】 https://www.youtube.com/watch?v=dS7IGRZdhDE
+- [蒼き伝承 ウェルシュ＆シェダー] OP1 「僕らの未来へ」影山ヒロノブ＆奥井雅美 → Kageyama Hironobu Official YouTube Channel https://www.youtube.com/watch?v=2lagwnrCMRk
+- [蒼き伝承 ウェルシュ＆シェダー] ED1 「オムレツ」影山ヒロノブ → Kageyama Hironobu Official YouTube Channel https://www.youtube.com/watch?v=2lagwnrCMRk
+- [帰還者の魔法は特別です 第2期] ED1 「Everlasting」krage → アニプレックス チャンネル https://www.youtube.com/watch?v=1ENvHdqWI3I
+- [世界最強の魔女、始めました] ED1 「星を巡る」ロクデナシ → ぽにきゃん-Anime PONY CANYON https://www.youtube.com/watch?v=0MwOp8sk5fM
+- [DARK MACHINE THE ANIMATION] ED1 「Galaxy Mode」三代目 J SOUL BROTHERS → 【フジテレビ】アニメ公式チャンネル https://www.youtube.com/watch?v=wge9DTRjnLI
+- [千歳くんはラムネ瓶のなか 第2クール] ED2 「どこにもいけないまま」aruma → aruma https://www.youtube.com/watch?v=yggEbTtKuX4
+- [雑用付与術師が自分の最強に気付くまで] OP1 「Ecstatic Buffer」LiSA → StarryCube 公式チャンネル https://www.youtube.com/watch?v=yqvAv5li9Pw
+
 ## 2026-10-14
 
 ### 新規アニメ (2 件)
