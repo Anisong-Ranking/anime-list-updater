@@ -1,5 +1,15 @@
 # 更新履歴
 
+## 2026-10-18
+
+### 新規アニメ (2 件)
+- [2027冬アニメ] アイカツスターズ！ ～星々のProgress～
+- [2027冬アニメ] ラブライブ！虹ヶ咲学園スクールアイドル同好会 完結編 最終章
+
+### 新規YouTube動画発見 (2 件)
+- [恐怖コレクター] OP1 「カゲボウシ」スガシカオ → NHK ENTERPRISES Animation https://www.youtube.com/watch?v=tG7X7oUnbZc
+- [DARK MACHINE THE ANIMATION] OP1 「存在理由 改」BUCK∞TICK → 【フジテレビ】アニメ公式チャンネル https://www.youtube.com/watch?v=flcjEA7l9jM
+
 ## 2026-10-17
 
 ### 新規アニメ (3 件)
