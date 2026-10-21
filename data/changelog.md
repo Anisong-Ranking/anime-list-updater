@@ -1,5 +1,28 @@
 # 更新履歴
 
+## 2026-10-21
+
+### 新規アニメ (4 件)
+- [2027冬アニメ] 退魔録
+- [2027冬アニメ] ラブライブ！蓮ノ空女学院スクールアイドルクラブ
+- [2027冬アニメ] アイカツスターズ！ ～星々のProgress～
+- [2027冬アニメ] ラブライブ！虹ヶ咲学園スクールアイドル同好会 完結編 最終章
+
+### 削除アニメ (2 件)
+- [2027冬アニメ] アイカツスターズ！ ～星々のProgress～
+- [2027冬アニメ] ラブライブ！虹ヶ咲学園スクールアイドル同好会 完結編 最終章
+
+### 新規YouTube動画発見 (9 件)
+- [恐怖コレクター] ED1 「迷路」スガシカオ → NHK ENTERPRISES Animation https://www.youtube.com/watch?v=tG7X7oUnbZc
+- [凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録] ED1 「ときめきアン・ドゥ・トロワ♪」魔法映像マジックビジョンひろめ隊＜ニア・リストン（CAST：井上ほの花）、ヒルデトーラ・アルトワール（CAST：本泉莉奈）、レリアレッド・シルヴァー（CAST：日高里菜）＞ → MBS animation 公式チャンネル https://www.youtube.com/watch?v=FGhd4D_h9xc
+- [信者ゼロの女神サマと始める異世界攻略] OP1 「未来の足跡」310 → 博報堂DY ミュージック&ピクチャーズ【Showgate】ch https://www.youtube.com/watch?v=UGGtgG6hEEg
+- [スティール・ボール・ラン ジョジョの奇妙な冒険 2nd & 3rd STAGE] OP1 「SPIN」Kroi → Warner Bros. Japan Anime https://www.youtube.com/watch?v=6UF_qprQiu0
+- [スティール・ボール・ラン ジョジョの奇妙な冒険 2nd & 3rd STAGE] ED1 「死ぬか生きるか」千葉雄喜 → Warner Bros. Japan Anime https://www.youtube.com/watch?v=BfZD2dAqt6k
+- [タヌキとキツネ] 主題歌1 「ニコイチ！」SILENT SIREN → タヌキとキツネ【公式】 https://www.youtube.com/watch?v=yZB3GZ2Oay0
+- [とある暗部の少女共棲] ED1 「原子崩し(メルトダウナー)」岸田教団&THE明星ロケッツ → とあるプロジェクト公式toaru.project https://www.youtube.com/watch?v=f5kBk9DgLqk
+- [dreamland] OP1 「movin'on」Faulieu. → Faulieu. https://www.youtube.com/watch?v=UXrdCCIr58I
+- [夜桜さんちの大作戦 第2期 第2クール] ED2 「I’m still breathing」KID PHENOMENON → NBCUniversal Anime/Music https://www.youtube.com/watch?v=EwFd3PnUqso
+
 ## 2026-10-18
 
 ### 新規アニメ (2 件)
