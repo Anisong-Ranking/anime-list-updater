@@ -1,5 +1,10 @@
 # 更新履歴
 
+## 2026-10-24
+
+### 新規YouTube動画発見 (1 件)
+- [dreamland] ED1 「dream catcher」冨岡愛 → Amuse Creative Studio【ACS Animation】 https://www.youtube.com/watch?v=JfXkG3WEtx8
+
 ## 2026-10-23
 
 ### 新規アニメ (24 件)
