@@ -1,5 +1,11 @@
 # 更新履歴
 
+## 2026-10-26
+
+### 新規YouTube動画発見 (2 件)
+- [テムパル～アイテムの力～] ED1 「Ray of Emotion」導凰 → ぽにきゃん-Anime PONY CANYON https://www.youtube.com/watch?v=m_w460cA1ko
+- [わたしの幸せな結婚 特別篇] ED1 「プレリュードの手前に ～for me&you～」伊東歌詞太郎 → KADOKAWAanime https://www.youtube.com/watch?v=F152_iD2IRc
+
 ## 2026-10-24
 
 ### 新規YouTube動画発見 (1 件)
