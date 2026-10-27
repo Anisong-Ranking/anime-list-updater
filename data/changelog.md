@@ -1,5 +1,17 @@
 # 更新履歴
 
+## 2026-10-27
+
+### 新規アニメ (1 件)
+- [2027冬アニメ] BanG Dream! MyGO!!!!! // Ave Mujica
+
+### 削除アニメ (2 件)
+- [2027冬アニメ] BanG Dream! It's MyGO!!!!!／Ave Mujica（続編）
+- [2026夏アニメ] 劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉
+
+### 新規YouTube動画発見 (1 件)
+- [ゆうさんち！from 遊ハち] 主題歌1 「てててて」環琴葉とはーちゃん（ACS Anime records） → 【フジテレビ】アニメ公式チャンネル https://www.youtube.com/watch?v=CIHY9MfocTY
+
 ## 2026-10-26
 
 ### 新規YouTube動画発見 (2 件)
