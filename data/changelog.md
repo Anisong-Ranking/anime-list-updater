@@ -1,5 +1,10 @@
 # 更新履歴
 
+## 2026-10-29
+
+### 新規YouTube動画発見 (1 件)
+- [てつりょー！meet with 鉄道むすめ] ED1 「わたし未来線」てつりょー会（橘めい・庄子真央・福嶋晴菜・月城日花） → ぽにきゃん-Anime PONY CANYON https://www.youtube.com/watch?v=Nbc7I6y97FI
+
 ## 2026-10-28
 
 ### 新規YouTube動画発見 (1 件)
