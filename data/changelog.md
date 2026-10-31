@@ -1,5 +1,14 @@
 # 更新履歴
 
+## 2026-10-31
+
+### 新規アニメ (1 件)
+- [2026秋アニメ] メカザムライ
+
+### 新規YouTube動画発見 (2 件)
+- [獣王武神ダンデヴァイン] ED1 「ミカンセイオーディナリー」DayRe: → DayRe: https://www.youtube.com/watch?v=wNax51a6bAw
+- [追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。] OP1 「エンバートーチ」sumika → sumika official https://www.youtube.com/watch?v=OnbOB91hVwk
+
 ## 2026-10-29
 
 ### 新規YouTube動画発見 (1 件)
