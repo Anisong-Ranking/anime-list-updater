@@ -1,5 +1,18 @@
 # 更新履歴
 
+## 2026-11-11
+
+### 新規アニメ (2 件)
+- [2027冬アニメ] カラダにイイ男
+- [2027冬アニメ] はぐれアイドル地獄変
+
+### 削除アニメ (1 件)
+- [2026夏アニメ] 最終楽章 響け！ユーフォニアム後編
+
+### 新規YouTube動画発見 (2 件)
+- [ひらやすみ] ED1 「風味絶佳」TOMOO → TOMOO https://www.youtube.com/watch?v=sJQkzn-EezU
+- [ブレス] ED1 「New Page」HIKKA → アニプレックス チャンネル https://www.youtube.com/watch?v=APIKsZaarDk
+
 ## 2026-11-08
 
 ### 新規アニメ (2 件)
