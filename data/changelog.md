@@ -1,5 +1,14 @@
 # 更新履歴
 
+## 2026-11-21
+
+### 新規アニメ (1 件)
+- [2027冬アニメ] 新 美味しんぼ
+
+### 新規YouTube動画発見 (2 件)
+- [新 美味しんぼ] OP1 「PROMISE ME」牧野由依 → 美味しんぼ 公式チャンネル【デジタルリマスター版】 https://www.youtube.com/watch?v=Hs1AlE91RYQ
+- [新 美味しんぼ] ED1 「証」Skoop On Somebody → 美味しんぼ 公式チャンネル【デジタルリマスター版】 https://www.youtube.com/watch?v=K7DZiGev_8I
+
 ## 2026-11-20
 
 ### 新規アニメ (2 件)
