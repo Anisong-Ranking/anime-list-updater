@@ -1,5 +1,10 @@
 # 更新履歴
 
+## 2026-11-22
+
+### 新規YouTube動画発見 (1 件)
+- [FX戦士くるみちゃん] OP1 「FX戦士くるみちゃん」福賀くるみ（CV：鈴木愛奈） → KADOKAWAanime https://www.youtube.com/watch?v=OiQo6YyJ_pM
+
 ## 2026-11-21
 
 ### 新規アニメ (1 件)
