@@ -1,5 +1,12 @@
 # 更新履歴
 
+## 2026-11-26
+
+### 新規YouTube動画発見 (3 件)
+- [フールナイト] OP1 「Shake! spit out」Tempalay → Bandai Namco Filmworks Channel https://www.youtube.com/watch?v=pNJqECkz9l0
+- [ディズニー ツイステッドワンダーランド ザ アニメーション ～エピソード オブ サバナクロー～] OP1 「Piece of my world」Night Ravens → ディズニープラス https://www.youtube.com/watch?v=V4GYSZwuI4U
+- [ディズニー ツイステッドワンダーランド ザ アニメーション ～エピソード オブ サバナクロー～] ED1 「DIADEM」サバナクロー寮 → アニプレックス チャンネル https://www.youtube.com/watch?v=_vk3ljlw4Fg
+
 ## 2026-11-25
 
 ### 新規アニメ (1 件)
